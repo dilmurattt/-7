@@ -1,0 +1,16 @@
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.g.cs
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\App.g.cs
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.lref
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.baml
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
+S:\ИСП 2191\дилмурат\ClassroomBooking\ClassroomBooking\bin\Debug\appsettings.json
